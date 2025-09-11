@@ -4,6 +4,7 @@ Created by Aatalon Shan
 A simple text-based adventure game written in Java, where the player makes choices to escape (or fall victim to) the haunted house. This project 
 demonstrates basic input processing, conditionals, and output in Java.
 
+#
 
 🎮 How to Play
 
