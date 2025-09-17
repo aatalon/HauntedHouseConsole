@@ -15,3 +15,6 @@ demonstrates basic input processing, conditionals, and output in Java.
 5. Your fate is decided by the path you choose!
 
 Tip: The game is case-insensitive – typing Door, door, or DOOR all work.
+
+
+This project is not being updated.
